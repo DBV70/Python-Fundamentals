@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="439e9e05-900a-4b2d-a162-6f25ac2286ad" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/pythonFundamental.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5. Basic Syntax, Conditional Statements and Loops/1. Number Definer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5. Basic Syntax, Conditional Statements and Loops/2. Largest of Three Numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5. Basic Syntax, Conditional Statements and Loops/3. Word Reverse 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5. Basic Syntax, Conditional Statements and Loops/3. Word Reverse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5. Basic Syntax, Conditional Statements and Loops/4. Even Numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5. Basic Syntax, Conditional Statements and Loops/5. Number Between 1 and 100.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5. Basic Syntax, Conditional Statements and Loops/6. Shopping.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5. Basic Syntax, Conditional Statements and Loops/7. Patterns.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6. Exercise - Basic Syntax, Conditional Statements and Loops/1. Jenny's Secret Message.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6. Exercise - Basic Syntax, Conditional Statements and Loops/10. Mutate Strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6. Exercise - Basic Syntax, Conditional Statements and Loops/11. Easter Bread.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6. Exercise - Basic Syntax, Conditional Statements and Loops/12. Christmas Spirit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6. Exercise - Basic Syntax, Conditional Statements and Loops/2. Drink Something.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6. Exercise - Basic Syntax, Conditional Statements and Loops/3. Chat Codes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6. Exercise - Basic Syntax, Conditional Statements and Loops/4. Maximum Multiple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6. Exercise - Basic Syntax, Conditional Statements and Loops/5. Orders.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6. Exercise - Basic Syntax, Conditional Statements and Loops/6. String Pureness.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6. Exercise - Basic Syntax, Conditional Statements and Loops/7. Double Char.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6. Exercise - Basic Syntax, Conditional Statements and Loops/8. How Much Coffee Do You Need.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6. Exercise - Basic Syntax, Conditional Statements and Loops/9. Sorting Hat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6. Exercise - Basic Syntax, Conditional Statements and Loops/Ex1. Find the Largest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6. Exercise - Basic Syntax, Conditional Statements and Loops/Ex2. Find the Capitals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6. Exercise - Basic Syntax, Conditional Statements and Loops/Ex3. Wolf in Sheep's Clothing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6. Exercise - Basic Syntax, Conditional Statements and Loops/Ex4. Sum of a Beach.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7. Git and GitHub/First-Exercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="32h2WIJojayomEoe6NNzB2FFRPd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.1. Jenny's Secret Message.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1. Number Definer.executor&quot;: &quot;Run&quot;,
+    &quot;Python.10. Mutate Strings.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.11. Easter Bread.executor&quot;: &quot;Run&quot;,
+    &quot;Python.12. Christmas Spirit.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.2. Drink Something.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3. Chat Codes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3. Word Reverse 2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4. Even Numbers.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.4. Maximum Multiple.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5. Number Between 1 and 100.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5. Orders.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.6. Shopping.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6. String Pureness.executor&quot;: &quot;Run&quot;,
+    &quot;Python.7. Double Char.executor&quot;: &quot;Run&quot;,
+    &quot;Python.7. Patterns.executor&quot;: &quot;Run&quot;,
+    &quot;Python.8. How Much Coffee Do You Need.executor&quot;: &quot;Run&quot;,
+    &quot;Python.9. Sorting Hat.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex1. Find the Largest.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.Ex4. Sum of a Beach.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/GitRepos/SoftUni/Python-Fundamentals&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Python.Ex1. Find the Largest">
+    <configuration name="10. Mutate Strings" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonFundamental" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6. Exercise - Basic Syntax, Conditional Statements and Loops" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6. Exercise - Basic Syntax, Conditional Statements and Loops/10. Mutate Strings.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="11. Easter Bread" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonFundamental" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6. Exercise - Basic Syntax, Conditional Statements and Loops" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6. Exercise - Basic Syntax, Conditional Statements and Loops/11. Easter Bread.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="12. Christmas Spirit" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonFundamental" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6. Exercise - Basic Syntax, Conditional Statements and Loops" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6. Exercise - Basic Syntax, Conditional Statements and Loops/12. Christmas Spirit.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Ex1. Find the Largest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonFundamental" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6. Exercise - Basic Syntax, Conditional Statements and Loops" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6. Exercise - Basic Syntax, Conditional Statements and Loops/Ex1. Find the Largest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Ex4. Sum of a Beach" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonFundamental" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6. Exercise - Basic Syntax, Conditional Statements and Loops" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6. Exercise - Basic Syntax, Conditional Statements and Loops/Ex4. Sum of a Beach.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="pythonFundamental" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Ex1. Find the Largest" />
+        <item itemvalue="Python.Ex4. Sum of a Beach" />
+        <item itemvalue="Python.12. Christmas Spirit" />
+        <item itemvalue="Python.11. Easter Bread" />
+        <item itemvalue="Python.10. Mutate Strings" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-ce6832f46686-7b97d883f26b-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.25557.178" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="439e9e05-900a-4b2d-a162-6f25ac2286ad" name="Changes" comment="" />
+      <created>1757858513826</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1757858513826</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/6. Exercise - Basic Syntax, Conditional Statements and Loops/5. Orders.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/6. Exercise - Basic Syntax, Conditional Statements and Loops/5. Orders.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/6. Exercise - Basic Syntax, Conditional Statements and Loops/5. Orders.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/6. Exercise - Basic Syntax, Conditional Statements and Loops/5. Orders.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/6. Exercise - Basic Syntax, Conditional Statements and Loops/5. Orders.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/6. Exercise - Basic Syntax, Conditional Statements and Loops/5. Orders.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
