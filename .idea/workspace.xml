@@ -4,40 +4,104 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="439e9e05-900a-4b2d-a162-6f25ac2286ad" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/pythonFundamental.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5. Basic Syntax, Conditional Statements and Loops/1. Number Definer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5. Basic Syntax, Conditional Statements and Loops/2. Largest of Three Numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5. Basic Syntax, Conditional Statements and Loops/3. Word Reverse 2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5. Basic Syntax, Conditional Statements and Loops/3. Word Reverse.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5. Basic Syntax, Conditional Statements and Loops/4. Even Numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5. Basic Syntax, Conditional Statements and Loops/5. Number Between 1 and 100.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5. Basic Syntax, Conditional Statements and Loops/6. Shopping.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5. Basic Syntax, Conditional Statements and Loops/7. Patterns.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6. Exercise - Basic Syntax, Conditional Statements and Loops/1. Jenny's Secret Message.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6. Exercise - Basic Syntax, Conditional Statements and Loops/10. Mutate Strings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6. Exercise - Basic Syntax, Conditional Statements and Loops/11. Easter Bread.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6. Exercise - Basic Syntax, Conditional Statements and Loops/12. Christmas Spirit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6. Exercise - Basic Syntax, Conditional Statements and Loops/2. Drink Something.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6. Exercise - Basic Syntax, Conditional Statements and Loops/3. Chat Codes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6. Exercise - Basic Syntax, Conditional Statements and Loops/4. Maximum Multiple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6. Exercise - Basic Syntax, Conditional Statements and Loops/5. Orders.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6. Exercise - Basic Syntax, Conditional Statements and Loops/6. String Pureness.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6. Exercise - Basic Syntax, Conditional Statements and Loops/7. Double Char.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6. Exercise - Basic Syntax, Conditional Statements and Loops/8. How Much Coffee Do You Need.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6. Exercise - Basic Syntax, Conditional Statements and Loops/9. Sorting Hat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6. Exercise - Basic Syntax, Conditional Statements and Loops/Ex1. Find the Largest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6. Exercise - Basic Syntax, Conditional Statements and Loops/Ex2. Find the Capitals.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6. Exercise - Basic Syntax, Conditional Statements and Loops/Ex3. Wolf in Sheep's Clothing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6. Exercise - Basic Syntax, Conditional Statements and Loops/Ex4. Sum of a Beach.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7. Git and GitHub/First-Exercise.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    <list default="true" id="439e9e05-900a-4b2d-a162-6f25ac2286ad" name="Changes" comment="Commit 8">
+      <change afterPath="$PROJECT_DIR$/11. List Basics/Exercises/1. Invert Values.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11. List Basics/Exercises/10. Bread Factory.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11. List Basics/Exercises/2. Multiples List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11. List Basics/Exercises/3. Football Cards.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11. List Basics/Exercises/4. Number Beggars.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11. List Basics/Exercises/5. Faro Shuffle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11. List Basics/Exercises/6. Survival of the Biggest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11. List Basics/Exercises/7. Easter Gifts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11. List Basics/Exercises/8. Seize the Fire.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11. List Basics/Exercises/9. Hello, France.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11. List Basics/Lab/1. Strange Zoo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11. List Basics/Lab/2. Courses.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11. List Basics/Lab/3. List Statistics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11. List Basics/Lab/4. Search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11. List Basics/Lab/5. Numbers Filter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11. List Basics/More Exercises/1. Zeros to Back.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11. List Basics/More Exercises/2. Messaging.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11. List Basics/More Exercises/3. Car Race.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11. List Basics/More Exercises/4. Josephus Permutation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11. List Basics/More Exercises/5. Tic-Tac-Toe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11. List Basics/More Exercises/6. List Manipulator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14. Functions/Exercises/1. Smallest of Three Numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14. Functions/Exercises/10. Perfect Number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14. Functions/Exercises/11. Loading Bar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14. Functions/Exercises/12. Factorial Division.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14. Functions/Exercises/2. Add and Subtract.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14. Functions/Exercises/3. Characters in Range.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14. Functions/Exercises/4. Odd and Even Sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14. Functions/Exercises/5. Even Numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14. Functions/Exercises/6. Sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14. Functions/Exercises/7. Min Max and Sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14. Functions/Exercises/8. Palindrome Integers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14. Functions/Exercises/9. Password Validator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14. Functions/Lab/1. Absolute Values.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14. Functions/Lab/2. Grades.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14. Functions/Lab/3. Calculations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14. Functions/Lab/4. Repeat String.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14. Functions/Lab/5. Orders.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14. Functions/Lab/6. Calculate Rectangle Area.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14. Functions/Lab/7. Rounding.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5. Basic Syntax, Conditional Statements and Loops/More Exercises/Ex1. Find the Largest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5. Basic Syntax, Conditional Statements and Loops/More Exercises/Ex2. Find the Capitals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5. Basic Syntax, Conditional Statements and Loops/More Exercises/Ex3. Wolf in Sheep's Clothing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5. Basic Syntax, Conditional Statements and Loops/More Exercises/Ex4. Sum of a Beach.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8. Data Types and Variables/Exercise/1. Integer Operations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8. Data Types and Variables/Exercise/10. Gladiator Expenses.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8. Data Types and Variables/Exercise/11. Exchange Integers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8. Data Types and Variables/Exercise/12. Prime Number Checker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8. Data Types and Variables/Exercise/13. Decrypting Messages.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8. Data Types and Variables/Exercise/14. Balanced Brackets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8. Data Types and Variables/Exercise/2. Chars to String.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8. Data Types and Variables/Exercise/3. Elevator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8. Data Types and Variables/Exercise/4. Sum of Chars.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8. Data Types and Variables/Exercise/5. Print Part of the ASCII Table.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8. Data Types and Variables/Exercise/6. Triples of Latin Letters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8. Data Types and Variables/Exercise/7. Water Overflow.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8. Data Types and Variables/Exercise/8. Party Profit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8. Data Types and Variables/Exercise/9. Snowballs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8. Data Types and Variables/Lab/2. Convert Meters to Kilometers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8. Data Types and Variables/Lab/3. Pounds to Dollars.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8. Data Types and Variables/Lab/4. Centuries to Minutes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8. Data Types and Variables/Lab/5. Special Numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8. Data Types and Variables/Lab/6. Next Happy Year.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/pythonFundamental.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pythonFundamental.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5. Basic Syntax, Conditional Statements and Loops/1. Number Definer.py" beforeDir="false" afterPath="$PROJECT_DIR$/5. Basic Syntax, Conditional Statements and Loops/Lab/1. Number Definer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5. Basic Syntax, Conditional Statements and Loops/2. Largest of Three Numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/5. Basic Syntax, Conditional Statements and Loops/Lab/2. Largest of Three Numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5. Basic Syntax, Conditional Statements and Loops/3. Word Reverse 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/5. Basic Syntax, Conditional Statements and Loops/Lab/3. Word Reverse 2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5. Basic Syntax, Conditional Statements and Loops/3. Word Reverse.py" beforeDir="false" afterPath="$PROJECT_DIR$/5. Basic Syntax, Conditional Statements and Loops/Lab/3. Word Reverse.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5. Basic Syntax, Conditional Statements and Loops/4. Even Numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/5. Basic Syntax, Conditional Statements and Loops/Lab/4. Even Numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5. Basic Syntax, Conditional Statements and Loops/5. Number Between 1 and 100.py" beforeDir="false" afterPath="$PROJECT_DIR$/5. Basic Syntax, Conditional Statements and Loops/Lab/5. Number Between 1 and 100.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5. Basic Syntax, Conditional Statements and Loops/6. Shopping.py" beforeDir="false" afterPath="$PROJECT_DIR$/5. Basic Syntax, Conditional Statements and Loops/Lab/6. Shopping.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5. Basic Syntax, Conditional Statements and Loops/7. Patterns.py" beforeDir="false" afterPath="$PROJECT_DIR$/5. Basic Syntax, Conditional Statements and Loops/Lab/7. Patterns.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6. Exercise - Basic Syntax, Conditional Statements and Loops/1. Jenny's Secret Message.py" beforeDir="false" afterPath="$PROJECT_DIR$/5. Basic Syntax, Conditional Statements and Loops/Exercise/1. Jenny's Secret Message.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6. Exercise - Basic Syntax, Conditional Statements and Loops/10. Mutate Strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/5. Basic Syntax, Conditional Statements and Loops/Exercise/10. Mutate Strings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6. Exercise - Basic Syntax, Conditional Statements and Loops/11. Easter Bread.py" beforeDir="false" afterPath="$PROJECT_DIR$/5. Basic Syntax, Conditional Statements and Loops/Exercise/11. Easter Bread.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6. Exercise - Basic Syntax, Conditional Statements and Loops/12. Christmas Spirit.py" beforeDir="false" afterPath="$PROJECT_DIR$/5. Basic Syntax, Conditional Statements and Loops/Exercise/12. Christmas Spirit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6. Exercise - Basic Syntax, Conditional Statements and Loops/2. Drink Something.py" beforeDir="false" afterPath="$PROJECT_DIR$/5. Basic Syntax, Conditional Statements and Loops/Exercise/2. Drink Something.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6. Exercise - Basic Syntax, Conditional Statements and Loops/3. Chat Codes.py" beforeDir="false" afterPath="$PROJECT_DIR$/5. Basic Syntax, Conditional Statements and Loops/Exercise/3. Chat Codes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6. Exercise - Basic Syntax, Conditional Statements and Loops/4. Maximum Multiple.py" beforeDir="false" afterPath="$PROJECT_DIR$/5. Basic Syntax, Conditional Statements and Loops/Exercise/4. Maximum Multiple.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6. Exercise - Basic Syntax, Conditional Statements and Loops/5. Orders.py" beforeDir="false" afterPath="$PROJECT_DIR$/5. Basic Syntax, Conditional Statements and Loops/Exercise/5. Orders.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6. Exercise - Basic Syntax, Conditional Statements and Loops/6. String Pureness.py" beforeDir="false" afterPath="$PROJECT_DIR$/5. Basic Syntax, Conditional Statements and Loops/Exercise/6. String Pureness.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6. Exercise - Basic Syntax, Conditional Statements and Loops/7. Double Char.py" beforeDir="false" afterPath="$PROJECT_DIR$/5. Basic Syntax, Conditional Statements and Loops/Exercise/7. Double Char.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6. Exercise - Basic Syntax, Conditional Statements and Loops/8. How Much Coffee Do You Need.py" beforeDir="false" afterPath="$PROJECT_DIR$/5. Basic Syntax, Conditional Statements and Loops/Exercise/8. How Much Coffee Do You Need.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6. Exercise - Basic Syntax, Conditional Statements and Loops/9. Sorting Hat.py" beforeDir="false" afterPath="$PROJECT_DIR$/5. Basic Syntax, Conditional Statements and Loops/Exercise/9. Sorting Hat.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6. Exercise - Basic Syntax, Conditional Statements and Loops/Ex1. Find the Largest.py" beforeDir="false" afterPath="$PROJECT_DIR$/14. Functions/More Exercises/1. Data Types.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6. Exercise - Basic Syntax, Conditional Statements and Loops/Ex2. Find the Capitals.py" beforeDir="false" afterPath="$PROJECT_DIR$/14. Functions/More Exercises/2. Center Point.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6. Exercise - Basic Syntax, Conditional Statements and Loops/Ex3. Wolf in Sheep's Clothing.py" beforeDir="false" afterPath="$PROJECT_DIR$/14. Functions/More Exercises/3. Longer Line.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6. Exercise - Basic Syntax, Conditional Statements and Loops/Ex4. Sum of a Beach.py" beforeDir="false" afterPath="$PROJECT_DIR$/14. Functions/More Exercises/4. Tribonacci Sequence.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. Git and GitHub/First-Exercise.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8. Data Types and Variables/1. Concat Names.py" beforeDir="false" afterPath="$PROJECT_DIR$/8. Data Types and Variables/Lab/1. Concat Names.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8. Data Types and Variables/2. Convert Meters to Kilometers.py" beforeDir="false" afterPath="$PROJECT_DIR$/14. Functions/More Exercises/5. Multiplication Sign.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8. Data Types and Variables/3. Pounds to Dollars.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8. Data Types and Variables/4. Centuries to Minutes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8. Data Types and Variables/5. Special Numbers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8. Data Types and Variables/6. Next Happy Year.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,11 +118,26 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;DBV70&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/DBV70/Python-Fundamentals.git&quot;,
+    &quot;accountId&quot;: &quot;9141310e-6573-4bca-9f95-207e4b03ef07&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 2
 }</component>
   <component name="ProjectId" id="32h2WIJojayomEoe6NNzB2FFRPd" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -66,36 +145,108 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.1. Absolute Values.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1. Concat Names.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1. Data Types.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1. Integer Operations.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1. Invert Values.executor&quot;: &quot;Run&quot;,
     &quot;Python.1. Jenny's Secret Message.executor&quot;: &quot;Run&quot;,
     &quot;Python.1. Number Definer.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1. Smallest of Three Numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1. Strange Zoo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1. Zeros to Back.executor&quot;: &quot;Run&quot;,
+    &quot;Python.10. Bread Factory.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.10. Gladiator Expenses.executor&quot;: &quot;Run&quot;,
     &quot;Python.10. Mutate Strings.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.10. Perfect Number.executor&quot;: &quot;Run&quot;,
     &quot;Python.11. Easter Bread.executor&quot;: &quot;Run&quot;,
+    &quot;Python.11. Exchange Integers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.11. Loading Bar.executor&quot;: &quot;Debug&quot;,
     &quot;Python.12. Christmas Spirit.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.12. Factorial Division.executor&quot;: &quot;Run&quot;,
+    &quot;Python.12. Prime Number Checker.executor&quot;: &quot;Run&quot;,
+    &quot;Python.13. Decrypting Messages.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.14. Balanced Brackets.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2. Add and Subtract.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2. Center Point.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2. Chars to String.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2. Convert Meters to Kilometers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2. Courses.executor&quot;: &quot;Run&quot;,
     &quot;Python.2. Drink Something.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2. Grades.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2. Messaging.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.2. Multiples List.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3. Calculations.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3. Car Race.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.3. Characters in Range.executor&quot;: &quot;Debug&quot;,
     &quot;Python.3. Chat Codes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3. Elevator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3. Football Cards.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.3. List Statistics.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3. Pounds to Dollars.executor&quot;: &quot;Run&quot;,
     &quot;Python.3. Word Reverse 2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4. Centuries to Minutes.executor&quot;: &quot;Run&quot;,
     &quot;Python.4. Even Numbers.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.4. Josephus Permutation.executor&quot;: &quot;Debug&quot;,
     &quot;Python.4. Maximum Multiple.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4. Number Beggars.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.4. Odd and Even Sum.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.4. Repeat String.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4. Search.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.4. Sum of Chars.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4. Tribonacci Sequence.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.5. Even Numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5. Faro Shuffle.executor&quot;: &quot;Debug&quot;,
     &quot;Python.5. Number Between 1 and 100.executor&quot;: &quot;Run&quot;,
-    &quot;Python.5. Orders.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.5. Numbers Filter.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5. Orders.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5. Print Part of the ASCII Table.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5. Special Numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5. Tic-Tac-Toe.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.6. Calculate Rectangle Area.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6. Next Happy Year.executor&quot;: &quot;Run&quot;,
     &quot;Python.6. Shopping.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6. Sort.executor&quot;: &quot;Run&quot;,
     &quot;Python.6. String Pureness.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6. Survival of the Biggest.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6. Triples of Latin Letters.executor&quot;: &quot;Run&quot;,
     &quot;Python.7. Double Char.executor&quot;: &quot;Run&quot;,
+    &quot;Python.7. Easter Gifts.executor&quot;: &quot;Run&quot;,
+    &quot;Python.7. Min Max and Sum.executor&quot;: &quot;Run&quot;,
     &quot;Python.7. Patterns.executor&quot;: &quot;Run&quot;,
+    &quot;Python.7. Rounding.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.7. Water Overflow.executor&quot;: &quot;Run&quot;,
     &quot;Python.8. How Much Coffee Do You Need.executor&quot;: &quot;Run&quot;,
+    &quot;Python.8. Palindrome Integers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.8. Party Profit.executor&quot;: &quot;Run&quot;,
+    &quot;Python.8. Seize the Fire.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.9. Hello, France.executor&quot;: &quot;Run&quot;,
+    &quot;Python.9. Password Validator.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.9. Snowballs.executor&quot;: &quot;Run&quot;,
     &quot;Python.9. Sorting Hat.executor&quot;: &quot;Run&quot;,
     &quot;Python.Ex1. Find the Largest.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.Ex2. Find the Capitals.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.Ex3. Wolf in Sheep's Clothing.executor&quot;: &quot;Run&quot;,
     &quot;Python.Ex4. Sum of a Beach.executor&quot;: &quot;Debug&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/GitRepos/SoftUni/Python-Fundamentals&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.Ex1. Find the Largest">
-    <configuration name="10. Mutate Strings" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\GitRepos\SoftUni\Python-Fundamentals\5. Basic Syntax, Conditional Statements and Loops\More Exercises" />
+      <recent name="C:\GitRepos\SoftUni\Python-Fundamentals\5. Basic Syntax, Conditional Statements and Loops\Lab" />
+      <recent name="C:\GitRepos\SoftUni\Python-Fundamentals\5. Basic Syntax, Conditional Statements and Loops" />
+      <recent name="C:\GitRepos\SoftUni\Python-Fundamentals\8. Data Types and Variables\Lab" />
+      <recent name="C:\GitRepos\SoftUni\Python-Fundamentals\11. List Basics\Lab" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.4. Tribonacci Sequence">
+    <configuration name="11. Loading Bar" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonFundamental" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -104,11 +255,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6. Exercise - Basic Syntax, Conditional Statements and Loops" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/14. Functions/Functions Exersises" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6. Exercise - Basic Syntax, Conditional Statements and Loops/10. Mutate Strings.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/14. Functions/Functions Exersises/11. Loading Bar.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -117,7 +268,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="11. Easter Bread" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="12. Factorial Division" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonFundamental" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -126,11 +277,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6. Exercise - Basic Syntax, Conditional Statements and Loops" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/14. Functions/Functions Exersises" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6. Exercise - Basic Syntax, Conditional Statements and Loops/11. Easter Bread.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/14. Functions/Functions Exersises/12. Factorial Division.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -139,7 +290,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="12. Christmas Spirit" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1. Data Types" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonFundamental" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -148,11 +299,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6. Exercise - Basic Syntax, Conditional Statements and Loops" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/14. Functions/More Exercises" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6. Exercise - Basic Syntax, Conditional Statements and Loops/12. Christmas Spirit.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/14. Functions/More Exercises/1. Data Types.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -161,7 +312,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Ex1. Find the Largest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2. Center Point" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonFundamental" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -170,11 +321,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6. Exercise - Basic Syntax, Conditional Statements and Loops" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/14. Functions/More Exercises" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6. Exercise - Basic Syntax, Conditional Statements and Loops/Ex1. Find the Largest.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/14. Functions/More Exercises/2. Center Point.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -183,7 +334,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Ex4. Sum of a Beach" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="4. Tribonacci Sequence" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonFundamental" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -192,11 +343,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6. Exercise - Basic Syntax, Conditional Statements and Loops" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/14. Functions/More Exercises" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6. Exercise - Basic Syntax, Conditional Statements and Loops/Ex4. Sum of a Beach.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/14. Functions/More Exercises/4. Tribonacci Sequence.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -229,11 +380,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Ex1. Find the Largest" />
-        <item itemvalue="Python.Ex4. Sum of a Beach" />
-        <item itemvalue="Python.12. Christmas Spirit" />
-        <item itemvalue="Python.11. Easter Bread" />
-        <item itemvalue="Python.10. Mutate Strings" />
+        <item itemvalue="Python.4. Tribonacci Sequence" />
+        <item itemvalue="Python.2. Center Point" />
+        <item itemvalue="Python.1. Data Types" />
+        <item itemvalue="Python.12. Factorial Division" />
+        <item itemvalue="Python.11. Loading Bar" />
       </list>
     </recent_temporary>
   </component>
@@ -253,6 +404,23 @@
       <option name="presentableId" value="Default" />
       <updated>1757858513826</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial commit.">
+      <option name="closed" value="true" />
+      <created>1758037084988</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1758037084988</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Commit 8">
+      <option name="closed" value="true" />
+      <created>1758356679629</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1758356679629</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -266,6 +434,11 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit." />
+    <MESSAGE value="Commit 8" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit 8" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -275,34 +448,54 @@
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/6. Exercise - Basic Syntax, Conditional Statements and Loops/5. Orders.py</url>
+          <url>file://$PROJECT_DIR$/5. Basic Syntax, Conditional Statements and Loops/Exercise/5. Orders.py</url>
           <line>3</line>
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/6. Exercise - Basic Syntax, Conditional Statements and Loops/5. Orders.py</url>
+          <url>file://$PROJECT_DIR$/5. Basic Syntax, Conditional Statements and Loops/Exercise/5. Orders.py</url>
           <line>8</line>
           <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/6. Exercise - Basic Syntax, Conditional Statements and Loops/5. Orders.py</url>
+          <url>file://$PROJECT_DIR$/5. Basic Syntax, Conditional Statements and Loops/Exercise/5. Orders.py</url>
           <line>9</line>
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/6. Exercise - Basic Syntax, Conditional Statements and Loops/5. Orders.py</url>
+          <url>file://$PROJECT_DIR$/5. Basic Syntax, Conditional Statements and Loops/Exercise/5. Orders.py</url>
           <line>11</line>
           <option name="timeStamp" value="12" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/6. Exercise - Basic Syntax, Conditional Statements and Loops/5. Orders.py</url>
+          <url>file://$PROJECT_DIR$/5. Basic Syntax, Conditional Statements and Loops/Exercise/5. Orders.py</url>
           <line>12</line>
           <option name="timeStamp" value="13" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/6. Exercise - Basic Syntax, Conditional Statements and Loops/5. Orders.py</url>
+          <url>file://$PROJECT_DIR$/5. Basic Syntax, Conditional Statements and Loops/Exercise/5. Orders.py</url>
           <line>14</line>
           <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/5. Basic Syntax, Conditional Statements and Loops/Exercise/12. Christmas Spirit.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/11. List Basics/Exercises/10. Bread Factory.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="130" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/14. Functions/More Exercises/4. Tribonacci Sequence.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="203" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/14. Functions/More Exercises/4. Tribonacci Sequence.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="204" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
