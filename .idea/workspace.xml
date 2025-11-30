@@ -5,111 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="439e9e05-900a-4b2d-a162-6f25ac2286ad" name="Changes" comment="Commit 8">
-      <change afterPath="$PROJECT_DIR$/21. Mid Exam/01. Quest in the World.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/21. Mid Exam/02. Space Travel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/21. Mid Exam/03. School Library.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22. Objects and Classes/Exercises/1. Storage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22. Objects and Classes/Exercises/2. Weapon.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22. Objects and Classes/Exercises/3. Catalogue.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22. Objects and Classes/Exercises/4. Town.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22. Objects and Classes/Exercises/5. Class.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22. Objects and Classes/Exercises/6. Inventory.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22. Objects and Classes/Exercises/7. Articles.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22. Objects and Classes/Exercises/8. Vehicle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22. Objects and Classes/Exercises/9. Movie.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22. Objects and Classes/Lab/1. Comment.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22. Objects and Classes/Lab/2. Party.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22. Objects and Classes/Lab/3. Email.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22. Objects and Classes/Lab/4. Zoo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22. Objects and Classes/Lab/5. Circle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/25 Dictionaries/Exercises/1. Count Chars in a String.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/25 Dictionaries/Exercises/10. Company Users.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/25 Dictionaries/Exercises/11. Force Book.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/25 Dictionaries/Exercises/12. SoftUni Exam Results.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/25 Dictionaries/Exercises/2. A Miner Task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/25 Dictionaries/Exercises/3. Capitals.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/25 Dictionaries/Exercises/4. Phonebook.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/25 Dictionaries/Exercises/5. Legendary Farming.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/25 Dictionaries/Exercises/6. Orders.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/25 Dictionaries/Exercises/7. SoftUni Parking.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/25 Dictionaries/Exercises/8. Courses.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/25 Dictionaries/Exercises/9. Student Academy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/25 Dictionaries/Extra Exercises/1. Ranking.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/25 Dictionaries/Extra Exercises/2. Judge.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/25 Dictionaries/Extra Exercises/3. MOBA Challenger.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/25 Dictionaries/Extra Exercises/4. Snow White.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/25 Dictionaries/Extra Exercises/5. Dragon Army.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/25 Dictionaries/Lab/1. Bakery.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/25 Dictionaries/Lab/2. Stock.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/25 Dictionaries/Lab/3. Statistics.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/25 Dictionaries/Lab/4. Students.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/25 Dictionaries/Lab/5. ASCII Values.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/25 Dictionaries/Lab/6. Odd Occurrences.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/25 Dictionaries/Lab/7. Word Synonyms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/27. Bitwise operations/Lab/1. Binary Digits Count.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/27. Bitwise operations/Lab/2. Bit at Position 1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/27. Bitwise operations/Lab/3. P-th Bit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/27. Bitwise operations/Lab/4. Bit Destroyer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/27. Bitwise operations/Lab/5. Odd Times.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/27. Bitwise operations/Lab/6. Tri-bit Switch.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/28. Text Processing/Exercises/1. Valid Usernames.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/28. Text Processing/Exercises/10. Winning Ticket.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/28. Text Processing/Exercises/2. Character Multiplier.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/28. Text Processing/Exercises/3. Extract File.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/28. Text Processing/Exercises/4. Caesar Cipher.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/28. Text Processing/Exercises/5. Emoticon Finder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/28. Text Processing/Exercises/6. Replace Repeating Chars.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/28. Text Processing/Exercises/7. String Explosion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/28. Text Processing/Exercises/8. Letters Change Numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/28. Text Processing/Exercises/9. Rage Quit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/28. Text Processing/Extra Exercises/1. Extract Person Information.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/28. Text Processing/Extra Exercises/2. ASCII Sumator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/28. Text Processing/Extra Exercises/3. Treasure Finder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/28. Text Processing/Extra Exercises/4. Morse Code Translator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/28. Text Processing/Extra Exercises/5. HTML.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/28. Text Processing/Lab/1. Reverse Strings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/28. Text Processing/Lab/2. Repeat Strings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/28. Text Processing/Lab/3. Substring.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/28. Text Processing/Lab/4. Text Filter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/28. Text Processing/Lab/5. Digits, Letters, and Other.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/30. Regular Expressions/Exercises/1. Capture the Numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/30. Regular Expressions/Exercises/2. Find Variable Names in Sentences.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/30. Regular Expressions/Exercises/3. Find Occurrences of Word in Sentence.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/30. Regular Expressions/Exercises/4. Extract Emails.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/30. Regular Expressions/Exercises/5. Furniture.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/30. Regular Expressions/Exercises/6. Extract the Links.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/30. Regular Expressions/Extra Exercises/1. Race.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/30. Regular Expressions/Extra Exercises/2. SoftUni Bar Income.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/30. Regular Expressions/Extra Exercises/3. Star Enigma.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/30. Regular Expressions/Extra Exercises/4. Nether Realms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/30. Regular Expressions/Extra Exercises/5. HTML Parser.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/30. Regular Expressions/Lab/1. Match Full Name.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/30. Regular Expressions/Lab/2. Match Phone Number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/30. Regular Expressions/Lab/3. Match Dates.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/30. Regular Expressions/Lab/4. Match Numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/34 Examn Preparation/1. Activation Keys.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/34 Examn Preparation/2. Mirror words.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/34 Examn Preparation/3. Heroes of Code and Logic VII.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/35. Exam Preparation/1. Secret Chat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/35. Exam Preparation/2. Destination Mapper.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/35. Exam Preparation/3. The Pianist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Regular Exam/02. Lost Artifact.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Regular Exam/03. Dictionary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Regular Exam/1. Password Validator.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/16. List Advanced/Exersises/01. Which Are In.py" beforeDir="false" afterPath="$PROJECT_DIR$/16. List Advanced/Exercises/01. Which Are In.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/16. List Advanced/Exersises/02. Next Version.py" beforeDir="false" afterPath="$PROJECT_DIR$/16. List Advanced/Exercises/02. Next Version.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/16. List Advanced/Exersises/03. Word Filter.py" beforeDir="false" afterPath="$PROJECT_DIR$/16. List Advanced/Exercises/03. Word Filter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/16. List Advanced/Exersises/04. Number Classification.py" beforeDir="false" afterPath="$PROJECT_DIR$/16. List Advanced/Exercises/04. Number Classification.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/16. List Advanced/Exersises/05. Office Chairs.py" beforeDir="false" afterPath="$PROJECT_DIR$/16. List Advanced/Exercises/05. Office Chairs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/16. List Advanced/Exersises/06. Electron Distribution.py" beforeDir="false" afterPath="$PROJECT_DIR$/16. List Advanced/Exercises/06. Electron Distribution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/16. List Advanced/Exersises/07. Group of 10s.py" beforeDir="false" afterPath="$PROJECT_DIR$/16. List Advanced/Exercises/07. Group of 10s.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/16. List Advanced/Exersises/08. Decipher This.py" beforeDir="false" afterPath="$PROJECT_DIR$/16. List Advanced/Exercises/08. Decipher This.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/16. List Advanced/Exersises/09. Anonymous Threat.py" beforeDir="false" afterPath="$PROJECT_DIR$/16. List Advanced/Exercises/09. Anonymous Threat.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/16. List Advanced/Exersises/10. Pokemon Don't Go.py" beforeDir="false" afterPath="$PROJECT_DIR$/16. List Advanced/Exercises/10. Pokemon Don't Go.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/16. List Advanced/Exersises/11. SoftUni Course Planning.py" beforeDir="false" afterPath="$PROJECT_DIR$/16. List Advanced/Exercises/11. SoftUni Course Planning.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/16. List Advanced/More Exersises/01. Social Distribution.py" beforeDir="false" afterPath="$PROJECT_DIR$/16. List Advanced/More Exercises/01. Social Distribution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/16. List Advanced/More Exersises/02. Take_Skip Rope.py" beforeDir="false" afterPath="$PROJECT_DIR$/16. List Advanced/More Exercises/02. Take_Skip Rope.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/16. List Advanced/More Exersises/03. Kate's Way Out.py" beforeDir="false" afterPath="$PROJECT_DIR$/16. List Advanced/More Exercises/03. Kate's Way Out.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/16. List Advanced/More Exersises/04. Battle Ships.py" beforeDir="false" afterPath="$PROJECT_DIR$/16. List Advanced/More Exercises/04. Battle Ships.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/16. List Advanced/More Exersises/05. Dots.py" beforeDir="false" afterPath="$PROJECT_DIR$/16. List Advanced/More Exercises/05. Dots.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -150,193 +49,197 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.01. No Vowels.executor&quot;: &quot;Run&quot;,
-    &quot;Python.01. Quest in the World.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.01. Social Distribution.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.01. SoftUni Reception.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.01. Which Are In.executor&quot;: &quot;Run&quot;,
-    &quot;Python.02. Next Version.executor&quot;: &quot;Run&quot;,
-    &quot;Python.02. Space Travel.executor&quot;: &quot;Run&quot;,
-    &quot;Python.02. Take_Skip Rope.executor&quot;: &quot;Run&quot;,
-    &quot;Python.02. Trains.executor&quot;: &quot;Run&quot;,
-    &quot;Python.02. Treasure Hunt.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.03. Kate's Way Out.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.03. School Library.executor&quot;: &quot;Run&quot;,
-    &quot;Python.03. ToDo List.executor&quot;: &quot;Run&quot;,
-    &quot;Python.03. Word Filter.executor&quot;: &quot;Run&quot;,
-    &quot;Python.04. Battle Ships.executor&quot;: &quot;Run&quot;,
-    &quot;Python.04. Number Classification.executor&quot;: &quot;Run&quot;,
-    &quot;Python.04. Palindrome Strings.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.05. Office Chairs.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.05. Sorting Names.executor&quot;: &quot;Run&quot;,
-    &quot;Python.06. Electron Distribution.executor&quot;: &quot;Run&quot;,
-    &quot;Python.06. Even Numbers.executor&quot;: &quot;Run&quot;,
-    &quot;Python.07. Group of 10s.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.07. The Office.executor&quot;: &quot;Run&quot;,
-    &quot;Python.08. Decipher This.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.09. Anonymous Threat.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.1. Absolute Values.executor&quot;: &quot;Run&quot;,
-    &quot;Python.1. Activation Keys.executor&quot;: &quot;Run&quot;,
-    &quot;Python.1. Binary Digits Count.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.1. Capture the Numbers.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.1. Concat Names.executor&quot;: &quot;Run&quot;,
-    &quot;Python.1. Count Chars in a String.executor&quot;: &quot;Run&quot;,
-    &quot;Python.1. Data Types.executor&quot;: &quot;Run&quot;,
-    &quot;Python.1. Extract Person Information.executor&quot;: &quot;Run&quot;,
-    &quot;Python.1. Integer Operations.executor&quot;: &quot;Run&quot;,
-    &quot;Python.1. Invert Values.executor&quot;: &quot;Run&quot;,
-    &quot;Python.1. Jenny's Secret Message.executor&quot;: &quot;Run&quot;,
-    &quot;Python.1. Match Full Name.executor&quot;: &quot;Run&quot;,
-    &quot;Python.1. Number Definer.executor&quot;: &quot;Run&quot;,
-    &quot;Python.1. Race.executor&quot;: &quot;Run&quot;,
-    &quot;Python.1. Ranking.executor&quot;: &quot;Run&quot;,
-    &quot;Python.1. Reverse Strings.executor&quot;: &quot;Run&quot;,
-    &quot;Python.1. Secret Chat.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.1. Smallest of Three Numbers.executor&quot;: &quot;Run&quot;,
-    &quot;Python.1. Storage.executor&quot;: &quot;Run&quot;,
-    &quot;Python.1. Strange Zoo.executor&quot;: &quot;Run&quot;,
-    &quot;Python.1. Zeros to Back.executor&quot;: &quot;Run&quot;,
-    &quot;Python.10. Bread Factory.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.10. Company Users.executor&quot;: &quot;Run&quot;,
-    &quot;Python.10. Gladiator Expenses.executor&quot;: &quot;Run&quot;,
-    &quot;Python.10. Mutate Strings.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.10. Perfect Number.executor&quot;: &quot;Run&quot;,
-    &quot;Python.10. Pokemon Don't Go.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.10. Winning Ticket.executor&quot;: &quot;Run&quot;,
-    &quot;Python.11. Easter Bread.executor&quot;: &quot;Run&quot;,
-    &quot;Python.11. Exchange Integers.executor&quot;: &quot;Run&quot;,
-    &quot;Python.11. Force Book.executor&quot;: &quot;Run&quot;,
-    &quot;Python.11. Loading Bar.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.11. SoftUni Course Planning.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.12. Christmas Spirit.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.12. Factorial Division.executor&quot;: &quot;Run&quot;,
-    &quot;Python.12. Prime Number Checker.executor&quot;: &quot;Run&quot;,
-    &quot;Python.12. SoftUni Exam Results.executor&quot;: &quot;Run&quot;,
-    &quot;Python.13. Decrypting Messages.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.14. Balanced Brackets.executor&quot;: &quot;Run&quot;,
-    &quot;Python.2. A Miner Task.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.2. ASCII Sumator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.2. Add and Subtract.executor&quot;: &quot;Run&quot;,
-    &quot;Python.2. Bit at Position 1.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.2. Center Point.executor&quot;: &quot;Run&quot;,
-    &quot;Python.2. Chars to String.executor&quot;: &quot;Run&quot;,
-    &quot;Python.2. Convert Meters to Kilometers.executor&quot;: &quot;Run&quot;,
-    &quot;Python.2. Courses.executor&quot;: &quot;Run&quot;,
-    &quot;Python.2. Destination Mapper.executor&quot;: &quot;Run&quot;,
-    &quot;Python.2. Drink Something.executor&quot;: &quot;Run&quot;,
-    &quot;Python.2. Grades.executor&quot;: &quot;Run&quot;,
-    &quot;Python.2. Judge.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.2. Match Phone Number.executor&quot;: &quot;Run&quot;,
-    &quot;Python.2. Messaging.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.2. Mirror words.executor&quot;: &quot;Run&quot;,
-    &quot;Python.2. Multiples List.executor&quot;: &quot;Run&quot;,
-    &quot;Python.2. SoftUni Bar Income.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3. Calculations.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3. Capitals.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.3. Car Race.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.3. Characters in Range.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.3. Chat Codes.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3. Elevator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3. Extract File.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.3. Football Cards.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.3. Heroes of Code and Logic VII.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3. List Statistics.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3. MOBA Challenger.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.3. Match Dates.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3. P-th Bit.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3. Pounds to Dollars.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3. Star Enigma.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3. The Pianist.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.3. Treasure Finder.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3. Word Reverse 2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4. Bit Destroyer.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4. Caesar Cipher.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4. Centuries to Minutes.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4. Even Numbers.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.4. Josephus Permutation.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.4. Match Numbers.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4. Maximum Multiple.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4. Morse Code Translator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4. Nether Realms.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.4. Number Beggars.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.4. Odd and Even Sum.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.4. Phonebook.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4. Repeat String.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4. Search.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.4. Snow White.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4. Students.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4. Sum of Chars.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4. Text Filter.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4. Town.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4. Tribonacci Sequence.executor&quot;: &quot;Run&quot;,
-    &quot;Python.5. Class.executor&quot;: &quot;Run&quot;,
-    &quot;Python.5. Dragon Army.executor&quot;: &quot;Run&quot;,
-    &quot;Python.5. Emoticon Finder.executor&quot;: &quot;Run&quot;,
-    &quot;Python.5. Even Numbers.executor&quot;: &quot;Run&quot;,
-    &quot;Python.5. Faro Shuffle.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.5. HTML Parser.executor&quot;: &quot;Run&quot;,
-    &quot;Python.5. HTML.executor&quot;: &quot;Run&quot;,
-    &quot;Python.5. Legendary Farming.executor&quot;: &quot;Run&quot;,
-    &quot;Python.5. Number Between 1 and 100.executor&quot;: &quot;Run&quot;,
-    &quot;Python.5. Numbers Filter.executor&quot;: &quot;Run&quot;,
-    &quot;Python.5. Odd Times.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.5. Orders.executor&quot;: &quot;Run&quot;,
-    &quot;Python.5. Print Part of the ASCII Table.executor&quot;: &quot;Run&quot;,
-    &quot;Python.5. Special Numbers.executor&quot;: &quot;Run&quot;,
-    &quot;Python.5. Tic-Tac-Toe.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.6. Calculate Rectangle Area.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6. Inventory.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6. Next Happy Year.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6. Odd Occurrences.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.6. Orders.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.6. Replace Repeating Chars.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6. Shopping.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6. Sort.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6. String Pureness.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6. Survival of the Biggest.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6. Tri-bit Switch.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6. Triples of Latin Letters.executor&quot;: &quot;Run&quot;,
-    &quot;Python.7. Articles.executor&quot;: &quot;Run&quot;,
-    &quot;Python.7. Double Char.executor&quot;: &quot;Run&quot;,
-    &quot;Python.7. Easter Gifts.executor&quot;: &quot;Run&quot;,
-    &quot;Python.7. Min Max and Sum.executor&quot;: &quot;Run&quot;,
-    &quot;Python.7. Patterns.executor&quot;: &quot;Run&quot;,
-    &quot;Python.7. Rounding.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.7. SoftUni Parking.executor&quot;: &quot;Run&quot;,
-    &quot;Python.7. String Explosion.executor&quot;: &quot;Run&quot;,
-    &quot;Python.7. Water Overflow.executor&quot;: &quot;Run&quot;,
-    &quot;Python.8. Courses.executor&quot;: &quot;Run&quot;,
-    &quot;Python.8. How Much Coffee Do You Need.executor&quot;: &quot;Run&quot;,
-    &quot;Python.8. Letters Change Numbers.executor&quot;: &quot;Run&quot;,
-    &quot;Python.8. Palindrome Integers.executor&quot;: &quot;Run&quot;,
-    &quot;Python.8. Party Profit.executor&quot;: &quot;Run&quot;,
-    &quot;Python.8. Seize the Fire.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.8. Vehicle.executor&quot;: &quot;Run&quot;,
-    &quot;Python.9. Hello, France.executor&quot;: &quot;Run&quot;,
-    &quot;Python.9. Movie.executor&quot;: &quot;Run&quot;,
-    &quot;Python.9. Password Validator.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.9. Snowballs.executor&quot;: &quot;Run&quot;,
-    &quot;Python.9. Sorting Hat.executor&quot;: &quot;Run&quot;,
-    &quot;Python.9. Student Academy.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.Counter-Strike.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.Ex1. Find the Largest.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.Ex2. Find the Capitals.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.Ex3. Wolf in Sheep's Clothing.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Ex4. Sum of a Beach.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.Numbers.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.The Lift.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.example.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/GitRepos/SoftUni/Python-Fundamentals&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.idesettings.debugger.python&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.01. No Vowels.executor": "Run",
+    "Python.01. Quest in the World.executor": "Debug",
+    "Python.01. Social Distribution.executor": "Debug",
+    "Python.01. SoftUni Reception.executor": "Debug",
+    "Python.01. Which Are In.executor": "Run",
+    "Python.02. Lost Artifact.executor": "Debug",
+    "Python.02. Next Version.executor": "Run",
+    "Python.02. Space Travel.executor": "Run",
+    "Python.02. Take_Skip Rope.executor": "Run",
+    "Python.02. Trains.executor": "Run",
+    "Python.02. Treasure Hunt.executor": "Debug",
+    "Python.03. Dictionary.executor": "Debug",
+    "Python.03. Kate's Way Out.executor": "Debug",
+    "Python.03. School Library.executor": "Run",
+    "Python.03. ToDo List.executor": "Run",
+    "Python.03. Word Filter.executor": "Run",
+    "Python.04. Battle Ships.executor": "Run",
+    "Python.04. Number Classification.executor": "Run",
+    "Python.04. Palindrome Strings.executor": "Debug",
+    "Python.05. Office Chairs.executor": "Debug",
+    "Python.05. Sorting Names.executor": "Run",
+    "Python.06. Electron Distribution.executor": "Run",
+    "Python.06. Even Numbers.executor": "Run",
+    "Python.07. Group of 10s.executor": "Debug",
+    "Python.07. The Office.executor": "Run",
+    "Python.08. Decipher This.executor": "Debug",
+    "Python.09. Anonymous Threat.executor": "Debug",
+    "Python.1. Absolute Values.executor": "Run",
+    "Python.1. Activation Keys.executor": "Run",
+    "Python.1. Binary Digits Count.executor": "Debug",
+    "Python.1. Capture the Numbers.executor": "Debug",
+    "Python.1. Concat Names.executor": "Run",
+    "Python.1. Count Chars in a String.executor": "Run",
+    "Python.1. Data Types.executor": "Run",
+    "Python.1. Extract Person Information.executor": "Run",
+    "Python.1. Integer Operations.executor": "Run",
+    "Python.1. Invert Values.executor": "Run",
+    "Python.1. Jenny's Secret Message.executor": "Run",
+    "Python.1. Match Full Name.executor": "Run",
+    "Python.1. Number Definer.executor": "Run",
+    "Python.1. Password Validator.executor": "Run",
+    "Python.1. Race.executor": "Run",
+    "Python.1. Ranking.executor": "Run",
+    "Python.1. Reverse Strings.executor": "Run",
+    "Python.1. Secret Chat.executor": "Debug",
+    "Python.1. Smallest of Three Numbers.executor": "Run",
+    "Python.1. Storage.executor": "Run",
+    "Python.1. Strange Zoo.executor": "Run",
+    "Python.1. Zeros to Back.executor": "Run",
+    "Python.10. Bread Factory.executor": "Debug",
+    "Python.10. Company Users.executor": "Run",
+    "Python.10. Gladiator Expenses.executor": "Run",
+    "Python.10. Mutate Strings.executor": "Debug",
+    "Python.10. Perfect Number.executor": "Run",
+    "Python.10. Pokemon Don't Go.executor": "Debug",
+    "Python.10. Winning Ticket.executor": "Run",
+    "Python.11. Easter Bread.executor": "Run",
+    "Python.11. Exchange Integers.executor": "Run",
+    "Python.11. Force Book.executor": "Run",
+    "Python.11. Loading Bar.executor": "Debug",
+    "Python.11. SoftUni Course Planning.executor": "Debug",
+    "Python.12. Christmas Spirit.executor": "Debug",
+    "Python.12. Factorial Division.executor": "Run",
+    "Python.12. Prime Number Checker.executor": "Run",
+    "Python.12. SoftUni Exam Results.executor": "Run",
+    "Python.13. Decrypting Messages.executor": "Debug",
+    "Python.14. Balanced Brackets.executor": "Run",
+    "Python.2. A Miner Task.executor": "Debug",
+    "Python.2. ASCII Sumator.executor": "Run",
+    "Python.2. Add and Subtract.executor": "Run",
+    "Python.2. Bit at Position 1.executor": "Debug",
+    "Python.2. Center Point.executor": "Run",
+    "Python.2. Chars to String.executor": "Run",
+    "Python.2. Convert Meters to Kilometers.executor": "Run",
+    "Python.2. Courses.executor": "Run",
+    "Python.2. Destination Mapper.executor": "Run",
+    "Python.2. Drink Something.executor": "Run",
+    "Python.2. Grades.executor": "Run",
+    "Python.2. Judge.executor": "Debug",
+    "Python.2. Match Phone Number.executor": "Run",
+    "Python.2. Messaging.executor": "Debug",
+    "Python.2. Mirror words.executor": "Run",
+    "Python.2. Multiples List.executor": "Run",
+    "Python.2. SoftUni Bar Income.executor": "Run",
+    "Python.3. Calculations.executor": "Run",
+    "Python.3. Capitals.executor": "Debug",
+    "Python.3. Car Race.executor": "Debug",
+    "Python.3. Characters in Range.executor": "Debug",
+    "Python.3. Chat Codes.executor": "Run",
+    "Python.3. Elevator.executor": "Run",
+    "Python.3. Extract File.executor": "Debug",
+    "Python.3. Football Cards.executor": "Debug",
+    "Python.3. Heroes of Code and Logic VII.executor": "Run",
+    "Python.3. List Statistics.executor": "Run",
+    "Python.3. MOBA Challenger.executor": "Debug",
+    "Python.3. Match Dates.executor": "Run",
+    "Python.3. P-th Bit.executor": "Run",
+    "Python.3. Pounds to Dollars.executor": "Run",
+    "Python.3. Star Enigma.executor": "Run",
+    "Python.3. The Pianist.executor": "Debug",
+    "Python.3. Treasure Finder.executor": "Run",
+    "Python.3. Word Reverse 2.executor": "Run",
+    "Python.4. Bit Destroyer.executor": "Run",
+    "Python.4. Caesar Cipher.executor": "Run",
+    "Python.4. Centuries to Minutes.executor": "Run",
+    "Python.4. Even Numbers.executor": "Debug",
+    "Python.4. Josephus Permutation.executor": "Debug",
+    "Python.4. Match Numbers.executor": "Run",
+    "Python.4. Maximum Multiple.executor": "Run",
+    "Python.4. Morse Code Translator.executor": "Run",
+    "Python.4. Nether Realms.executor": "Debug",
+    "Python.4. Number Beggars.executor": "Debug",
+    "Python.4. Odd and Even Sum.executor": "Debug",
+    "Python.4. Phonebook.executor": "Run",
+    "Python.4. Repeat String.executor": "Run",
+    "Python.4. Search.executor": "Debug",
+    "Python.4. Snow White.executor": "Run",
+    "Python.4. Students.executor": "Run",
+    "Python.4. Sum of Chars.executor": "Run",
+    "Python.4. Text Filter.executor": "Run",
+    "Python.4. Town.executor": "Run",
+    "Python.4. Tribonacci Sequence.executor": "Run",
+    "Python.5. Class.executor": "Run",
+    "Python.5. Dragon Army.executor": "Run",
+    "Python.5. Emoticon Finder.executor": "Run",
+    "Python.5. Even Numbers.executor": "Run",
+    "Python.5. Faro Shuffle.executor": "Debug",
+    "Python.5. HTML Parser.executor": "Run",
+    "Python.5. HTML.executor": "Run",
+    "Python.5. Legendary Farming.executor": "Run",
+    "Python.5. Number Between 1 and 100.executor": "Run",
+    "Python.5. Numbers Filter.executor": "Run",
+    "Python.5. Odd Times.executor": "Debug",
+    "Python.5. Orders.executor": "Run",
+    "Python.5. Print Part of the ASCII Table.executor": "Run",
+    "Python.5. Special Numbers.executor": "Run",
+    "Python.5. Tic-Tac-Toe.executor": "Debug",
+    "Python.6. Calculate Rectangle Area.executor": "Run",
+    "Python.6. Inventory.executor": "Run",
+    "Python.6. Next Happy Year.executor": "Run",
+    "Python.6. Odd Occurrences.executor": "Debug",
+    "Python.6. Orders.executor": "Debug",
+    "Python.6. Replace Repeating Chars.executor": "Run",
+    "Python.6. Shopping.executor": "Run",
+    "Python.6. Sort.executor": "Run",
+    "Python.6. String Pureness.executor": "Run",
+    "Python.6. Survival of the Biggest.executor": "Run",
+    "Python.6. Tri-bit Switch.executor": "Run",
+    "Python.6. Triples of Latin Letters.executor": "Run",
+    "Python.7. Articles.executor": "Run",
+    "Python.7. Double Char.executor": "Run",
+    "Python.7. Easter Gifts.executor": "Run",
+    "Python.7. Min Max and Sum.executor": "Run",
+    "Python.7. Patterns.executor": "Run",
+    "Python.7. Rounding.executor": "Debug",
+    "Python.7. SoftUni Parking.executor": "Run",
+    "Python.7. String Explosion.executor": "Run",
+    "Python.7. Water Overflow.executor": "Run",
+    "Python.8. Courses.executor": "Run",
+    "Python.8. How Much Coffee Do You Need.executor": "Run",
+    "Python.8. Letters Change Numbers.executor": "Run",
+    "Python.8. Palindrome Integers.executor": "Run",
+    "Python.8. Party Profit.executor": "Run",
+    "Python.8. Seize the Fire.executor": "Debug",
+    "Python.8. Vehicle.executor": "Run",
+    "Python.9. Hello, France.executor": "Run",
+    "Python.9. Movie.executor": "Run",
+    "Python.9. Password Validator.executor": "Debug",
+    "Python.9. Snowballs.executor": "Run",
+    "Python.9. Sorting Hat.executor": "Run",
+    "Python.9. Student Academy.executor": "Debug",
+    "Python.Counter-Strike.executor": "Debug",
+    "Python.Ex1. Find the Largest.executor": "Debug",
+    "Python.Ex2. Find the Capitals.executor": "Debug",
+    "Python.Ex3. Wolf in Sheep's Clothing.executor": "Run",
+    "Python.Ex4. Sum of a Beach.executor": "Debug",
+    "Python.Numbers.executor": "Debug",
+    "Python.Test.executor": "Run",
+    "Python.The Lift.executor": "Debug",
+    "Python.example.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/GitRepos/SoftUni/Python-Fundamentals",
+    "settings.editor.selected.configurable": "reference.idesettings.debugger.python"
   }
-}</component>
+}]]></component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
       <console-settings module-name="pythonFundamental" is-module-sdk="true">
@@ -354,8 +257,8 @@
       <recent name="C:\GitRepos\SoftUni\Python-Fundamentals\11. List Basics\Lab" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.3. The Pianist">
-    <configuration name="1. Secret Chat" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.02. Lost Artifact">
+    <configuration name="02. Lost Artifact" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonFundamental" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -364,11 +267,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/35. Exam Preparation" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Final Regular Exam" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/35. Exam Preparation/1. Secret Chat.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Final Regular Exam/02. Lost Artifact.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -377,7 +280,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2. Destination Mapper" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="03. Dictionary" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonFundamental" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -386,11 +289,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/35. Exam Preparation" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Final Regular Exam" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/35. Exam Preparation/2. Destination Mapper.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Final Regular Exam/03. Dictionary.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -399,7 +302,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2. Mirror words" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1. Password Validator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonFundamental" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -408,33 +311,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/34 Examn Preparation" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Final Regular Exam" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/34 Examn Preparation/2. Mirror words.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="3. Heroes of Code and Logic VII" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonFundamental" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/34 Examn Preparation" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/34 Examn Preparation/3. Heroes of Code and Logic VII.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Final Regular Exam/1. Password Validator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -457,6 +338,28 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/35. Exam Preparation/3. The Pianist.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonFundamental" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Final Regular Exam" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Final Regular Exam/Test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -489,11 +392,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.02. Lost Artifact" />
+        <item itemvalue="Python.Test" />
+        <item itemvalue="Python.03. Dictionary" />
+        <item itemvalue="Python.1. Password Validator" />
         <item itemvalue="Python.3. The Pianist" />
-        <item itemvalue="Python.2. Destination Mapper" />
-        <item itemvalue="Python.1. Secret Chat" />
-        <item itemvalue="Python.3. Heroes of Code and Logic VII" />
-        <item itemvalue="Python.2. Mirror words" />
       </list>
     </recent_temporary>
   </component>
@@ -632,6 +535,11 @@
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/28. Text Processing/Exercises/3. Extract File.py</url>
           <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Final Regular Exam/03. Dictionary.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="66" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
